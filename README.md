@@ -1,4 +1,4 @@
-# 3.-Design-and-Simulation-of-half-wave-rectifier-controlled-by-a-thyristor
+<img width="1920" height="988" alt="1ohm 45'" src="https://github.com/user-attachments/assets/45415483-fa6d-4db5-ae6f-901477294b54" /># 3.-Design-and-Simulation-of-half-wave-rectifier-controlled-by-a-thyristor
 ## AIM
 To design, simulate and analyse a half wave controlled rectifier using one thyristor in MATLAB Simulink.
 ## APPARATUS REQUIRED
@@ -62,5 +62,16 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="850" height="452" alt="Screenshot 2025-09-07 122627" src="https://github.com/user-attachments/assets/793369ce-7e88-444e-b6a2-98ded1114e99" />
+
 ## Output
+firing angle=45 degree & resistance value=1 ohm
+<img width="1920" height="988" alt="1ohm 45'" src="https://github.com/user-attachments/assets/fa133018-2d04-437d-a345-5db2b8eef7ba" />
+resistance value=2 ohm
+<img width="1920" height="987" alt="2ohm 45'" src="https://github.com/user-attachments/assets/f1279625-bc1a-44c4-bce0-ca54b0152991" />
+firing angle=90 degree & resistance value=2 ohm
+<img width="1920" height="989" alt="2ohm 90'" src="https://github.com/user-attachments/assets/2755bee1-ab37-4ea9-a7e0-2f5b99591781" />
+
 ## Result
+Thus I have,designed,simulated and analysed a half wave controlled rectifier using one thyristor in MATLAB Simulink.
+
